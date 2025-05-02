@@ -1,0 +1,7 @@
+D:\Данил\WinFormsApp1\7777\7777\obj\Debug\7777.csproj.AssemblyReference.cache
+D:\Данил\WinFormsApp1\7777\7777\obj\Debug\7777.csproj.CoreCompileInputs.cache
+D:\Данил\WinFormsApp1\7777\7777\bin\Debug\7777.exe.config
+D:\Данил\WinFormsApp1\7777\7777\bin\Debug\7777.exe
+D:\Данил\WinFormsApp1\7777\7777\bin\Debug\7777.pdb
+D:\Данил\WinFormsApp1\7777\7777\obj\Debug\7777.exe
+D:\Данил\WinFormsApp1\7777\7777\obj\Debug\7777.pdb

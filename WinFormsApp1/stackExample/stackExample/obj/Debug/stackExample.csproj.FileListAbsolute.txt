@@ -1,0 +1,10 @@
+D:\Данил\WinFormsApp1\stackExample\stackExample\bin\Debug\stackExample.exe.config
+D:\Данил\WinFormsApp1\stackExample\stackExample\bin\Debug\stackExample.exe
+D:\Данил\WinFormsApp1\stackExample\stackExample\bin\Debug\stackExample.pdb
+D:\Данил\WinFormsApp1\stackExample\stackExample\obj\Debug\stackExample.csproj.AssemblyReference.cache
+D:\Данил\WinFormsApp1\stackExample\stackExample\obj\Debug\stackExample.Form1.resources
+D:\Данил\WinFormsApp1\stackExample\stackExample\obj\Debug\stackExample.Properties.Resources.resources
+D:\Данил\WinFormsApp1\stackExample\stackExample\obj\Debug\stackExample.csproj.GenerateResource.cache
+D:\Данил\WinFormsApp1\stackExample\stackExample\obj\Debug\stackExample.csproj.CoreCompileInputs.cache
+D:\Данил\WinFormsApp1\stackExample\stackExample\obj\Debug\stackExample.exe
+D:\Данил\WinFormsApp1\stackExample\stackExample\obj\Debug\stackExample.pdb

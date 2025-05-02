@@ -1,0 +1,7 @@
+D:\Данил\WinFormsApp1\real estate\real estate\obj\Debug\real estate.csproj.AssemblyReference.cache
+D:\Данил\WinFormsApp1\real estate\real estate\obj\Debug\real estate.csproj.CoreCompileInputs.cache
+D:\Данил\WinFormsApp1\real estate\real estate\bin\Debug\real estate.exe.config
+D:\Данил\WinFormsApp1\real estate\real estate\bin\Debug\real estate.exe
+D:\Данил\WinFormsApp1\real estate\real estate\bin\Debug\real estate.pdb
+D:\Данил\WinFormsApp1\real estate\real estate\obj\Debug\real estate.exe
+D:\Данил\WinFormsApp1\real estate\real estate\obj\Debug\real estate.pdb

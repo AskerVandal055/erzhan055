@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RICHCOLLECTOR", "RICHCOLLECTOR\RICHCOLLECTOR.csproj", "{CE824E9A-97D6-458A-9538-C8AFDEEFC414}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE824E9A-97D6-458A-9538-C8AFDEEFC414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE824E9A-97D6-458A-9538-C8AFDEEFC414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE824E9A-97D6-458A-9538-C8AFDEEFC414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE824E9A-97D6-458A-9538-C8AFDEEFC414}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD403EE3-1319-4FA3-BB06-35DB18B6ACA6}
+	EndGlobalSection
+EndGlobal

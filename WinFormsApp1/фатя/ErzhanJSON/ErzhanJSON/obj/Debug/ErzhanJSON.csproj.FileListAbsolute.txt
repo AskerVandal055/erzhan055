@@ -1,0 +1,13 @@
+D:\Данил\WinFormsApp1\фатя\ErzhanJSON\ErzhanJSON\obj\Debug\ErzhanJSON.csproj.AssemblyReference.cache
+D:\Данил\WinFormsApp1\фатя\ErzhanJSON\ErzhanJSON\obj\Debug\ErzhanJSON.Form1.resources
+D:\Данил\WinFormsApp1\фатя\ErzhanJSON\ErzhanJSON\obj\Debug\ErzhanJSON.Properties.Resources.resources
+D:\Данил\WinFormsApp1\фатя\ErzhanJSON\ErzhanJSON\obj\Debug\ErzhanJSON.csproj.GenerateResource.cache
+D:\Данил\WinFormsApp1\фатя\ErzhanJSON\ErzhanJSON\obj\Debug\ErzhanJSON.csproj.CoreCompileInputs.cache
+D:\Данил\WinFormsApp1\фатя\ErzhanJSON\ErzhanJSON\bin\Debug\ErzhanJSON.exe.config
+D:\Данил\WinFormsApp1\фатя\ErzhanJSON\ErzhanJSON\bin\Debug\ErzhanJSON.exe
+D:\Данил\WinFormsApp1\фатя\ErzhanJSON\ErzhanJSON\bin\Debug\ErzhanJSON.pdb
+D:\Данил\WinFormsApp1\фатя\ErzhanJSON\ErzhanJSON\bin\Debug\Newtonsoft.Json.dll
+D:\Данил\WinFormsApp1\фатя\ErzhanJSON\ErzhanJSON\bin\Debug\Newtonsoft.Json.xml
+D:\Данил\WinFormsApp1\фатя\ErzhanJSON\ErzhanJSON\obj\Debug\ErzhanJSON.csproj.Up2Date
+D:\Данил\WinFormsApp1\фатя\ErzhanJSON\ErzhanJSON\obj\Debug\ErzhanJSON.exe
+D:\Данил\WinFormsApp1\фатя\ErzhanJSON\ErzhanJSON\obj\Debug\ErzhanJSON.pdb

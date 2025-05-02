@@ -1,0 +1,10 @@
+D:\Данил\WinFormsApp1\QuaeueExample\QuaeueExample\bin\Debug\QuaeueExample.exe.config
+D:\Данил\WinFormsApp1\QuaeueExample\QuaeueExample\bin\Debug\QuaeueExample.exe
+D:\Данил\WinFormsApp1\QuaeueExample\QuaeueExample\bin\Debug\QuaeueExample.pdb
+D:\Данил\WinFormsApp1\QuaeueExample\QuaeueExample\obj\Debug\QuaeueExample.csproj.AssemblyReference.cache
+D:\Данил\WinFormsApp1\QuaeueExample\QuaeueExample\obj\Debug\QuaeueExample.Form1.resources
+D:\Данил\WinFormsApp1\QuaeueExample\QuaeueExample\obj\Debug\QuaeueExample.Properties.Resources.resources
+D:\Данил\WinFormsApp1\QuaeueExample\QuaeueExample\obj\Debug\QuaeueExample.csproj.GenerateResource.cache
+D:\Данил\WinFormsApp1\QuaeueExample\QuaeueExample\obj\Debug\QuaeueExample.csproj.CoreCompileInputs.cache
+D:\Данил\WinFormsApp1\QuaeueExample\QuaeueExample\obj\Debug\QuaeueExample.exe
+D:\Данил\WinFormsApp1\QuaeueExample\QuaeueExample\obj\Debug\QuaeueExample.pdb

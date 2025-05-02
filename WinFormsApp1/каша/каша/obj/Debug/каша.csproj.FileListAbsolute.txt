@@ -1,0 +1,10 @@
+D:\Данил\WinFormsApp1\каша\каша\obj\Debug\каша.csproj.AssemblyReference.cache
+D:\Данил\WinFormsApp1\каша\каша\obj\Debug\каша.MainForm.resources
+D:\Данил\WinFormsApp1\каша\каша\obj\Debug\каша.Properties.Resources.resources
+D:\Данил\WinFormsApp1\каша\каша\obj\Debug\каша.csproj.GenerateResource.cache
+D:\Данил\WinFormsApp1\каша\каша\obj\Debug\каша.csproj.CoreCompileInputs.cache
+D:\Данил\WinFormsApp1\каша\каша\bin\Debug\каша.exe.config
+D:\Данил\WinFormsApp1\каша\каша\bin\Debug\каша.exe
+D:\Данил\WinFormsApp1\каша\каша\bin\Debug\каша.pdb
+D:\Данил\WinFormsApp1\каша\каша\obj\Debug\каша.exe
+D:\Данил\WinFormsApp1\каша\каша\obj\Debug\каша.pdb

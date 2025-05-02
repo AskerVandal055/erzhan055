@@ -1,0 +1,10 @@
+D:\Данил\WinFormsApp1\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.AssemblyReference.cache
+D:\Данил\WinFormsApp1\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Form1.resources
+D:\Данил\WinFormsApp1\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Properties.Resources.resources
+D:\Данил\WinFormsApp1\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.GenerateResource.cache
+D:\Данил\WinFormsApp1\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.CoreCompileInputs.cache
+D:\Данил\WinFormsApp1\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.exe.config
+D:\Данил\WinFormsApp1\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.exe
+D:\Данил\WinFormsApp1\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.pdb
+D:\Данил\WinFormsApp1\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.exe
+D:\Данил\WinFormsApp1\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.pdb

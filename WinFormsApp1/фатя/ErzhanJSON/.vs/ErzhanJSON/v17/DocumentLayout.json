@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0414\u0430\u043D\u0438\u043B\\WinFormsApp1\\\u0444\u0430\u0442\u044F\\ErzhanJSON\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0414\u0430\u043D\u0438\u043B\\WinFormsApp1\\\u0444\u0430\u0442\u044F\\ErzhanJSON\\ErzhanJSON\\bin\\Debug\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ErzhanJSON\\bin\\Debug\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2005515C-0439-43B3-9788-EA8BA1D277C4}|ErzhanJSON\\ErzhanJSON.csproj|d:\\\u0434\u0430\u043D\u0438\u043B\\winformsapp1\\\u0444\u0430\u0442\u044F\\erzhanjson\\erzhanjson\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2005515C-0439-43B3-9788-EA8BA1D277C4}|ErzhanJSON\\ErzhanJSON.csproj|solutionrelative:erzhanjson\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2005515C-0439-43B3-9788-EA8BA1D277C4}|ErzhanJSON\\ErzhanJSON.csproj|d:\\\u0434\u0430\u043D\u0438\u043B\\winformsapp1\\\u0444\u0430\u0442\u044F\\erzhanjson\\erzhanjson\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2005515C-0439-43B3-9788-EA8BA1D277C4}|ErzhanJSON\\ErzhanJSON.csproj|solutionrelative:erzhanjson\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2005515C-0439-43B3-9788-EA8BA1D277C4}|ErzhanJSON\\ErzhanJSON.csproj|d:\\\u0434\u0430\u043D\u0438\u043B\\winformsapp1\\\u0444\u0430\u0442\u044F\\erzhanjson\\erzhanjson\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2005515C-0439-43B3-9788-EA8BA1D277C4}|ErzhanJSON\\ErzhanJSON.csproj|solutionrelative:erzhanjson\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\\u0414\u0430\u043D\u0438\u043B\\WinFormsApp1\\\u0444\u0430\u0442\u044F\\ErzhanJSON\\ErzhanJSON\\User.cs",
+              "RelativeDocumentMoniker": "ErzhanJSON\\User.cs",
+              "ToolTip": "D:\\\u0414\u0430\u043D\u0438\u043B\\WinFormsApp1\\\u0444\u0430\u0442\u044F\\ErzhanJSON\\ErzhanJSON\\User.cs",
+              "RelativeToolTip": "ErzhanJSON\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:30:25.282Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u0414\u0430\u043D\u0438\u043B\\WinFormsApp1\\\u0444\u0430\u0442\u044F\\ErzhanJSON\\ErzhanJSON\\Form1.cs",
+              "RelativeDocumentMoniker": "ErzhanJSON\\Form1.cs",
+              "ToolTip": "D:\\\u0414\u0430\u043D\u0438\u043B\\WinFormsApp1\\\u0444\u0430\u0442\u044F\\ErzhanJSON\\ErzhanJSON\\Form1.cs",
+              "RelativeToolTip": "ErzhanJSON\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:34:09.067Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "users.json",
+              "DocumentMoniker": "D:\\\u0414\u0430\u043D\u0438\u043B\\WinFormsApp1\\\u0444\u0430\u0442\u044F\\ErzhanJSON\\ErzhanJSON\\bin\\Debug\\users.json",
+              "RelativeDocumentMoniker": "ErzhanJSON\\bin\\Debug\\users.json",
+              "ToolTip": "D:\\\u0414\u0430\u043D\u0438\u043B\\WinFormsApp1\\\u0444\u0430\u0442\u044F\\ErzhanJSON\\ErzhanJSON\\bin\\Debug\\users.json",
+              "RelativeToolTip": "ErzhanJSON\\bin\\Debug\\users.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-14T08:31:45.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0414\u0430\u043D\u0438\u043B\\WinFormsApp1\\\u0444\u0430\u0442\u044F\\ErzhanJSON\\ErzhanJSON\\Form1.cs",
+              "RelativeDocumentMoniker": "ErzhanJSON\\Form1.cs",
+              "ToolTip": "D:\\\u0414\u0430\u043D\u0438\u043B\\WinFormsApp1\\\u0444\u0430\u0442\u044F\\ErzhanJSON\\ErzhanJSON\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ErzhanJSON\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:25:39.57Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

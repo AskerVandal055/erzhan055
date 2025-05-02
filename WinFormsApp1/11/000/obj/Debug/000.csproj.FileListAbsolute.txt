@@ -1,0 +1,2 @@
+D:\Данил\WinFormsApp1\000\000\obj\Debug\000.csproj.AssemblyReference.cache
+D:\Данил\WinFormsApp1\000\000\obj\Debug\000.csproj.CoreCompileInputs.cache

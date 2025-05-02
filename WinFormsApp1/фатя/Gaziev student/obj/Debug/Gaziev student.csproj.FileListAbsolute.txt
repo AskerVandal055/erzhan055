@@ -1,0 +1,15 @@
+D:\Данил\WinFormsApp1\фатя\Gaziev student\bin\Debug\Gaziev student.exe.config
+D:\Данил\WinFormsApp1\фатя\Gaziev student\bin\Debug\Gaziev student.exe
+D:\Данил\WinFormsApp1\фатя\Gaziev student\bin\Debug\Gaziev student.pdb
+D:\Данил\WinFormsApp1\фатя\Gaziev student\obj\Debug\Gaziev student.csproj.AssemblyReference.cache
+D:\Данил\WinFormsApp1\фатя\Gaziev student\obj\Debug\Gaziev_student.Form1.resources
+D:\Данил\WinFormsApp1\фатя\Gaziev student\obj\Debug\Gaziev_student.Properties.Resources.resources
+D:\Данил\WinFormsApp1\фатя\Gaziev student\obj\Debug\Gaziev student.csproj.GenerateResource.cache
+D:\Данил\WinFormsApp1\фатя\Gaziev student\obj\Debug\Gaziev student.csproj.CoreCompileInputs.cache
+D:\Данил\WinFormsApp1\фатя\Gaziev student\obj\Debug\Gaziev student.exe
+D:\Данил\WinFormsApp1\фатя\Gaziev student\obj\Debug\Gaziev student.pdb
+D:\Данил\WinFormsApp1\фатя\Gaziev student\obj\Debug\Gaziev_student.Form2.resources
+D:\Данил\WinFormsApp1\фатя\Gaziev student\obj\Debug\Gaziev_student.Form3.resources
+D:\Данил\WinFormsApp1\фатя\Gaziev student\obj\Debug\Gaziev_student.Form4.resources
+D:\Данил\WinFormsApp1\фатя\Gaziev student\obj\Debug\Gaziev_student.Form5.resources
+D:\Данил\WinFormsApp1\фатя\Gaziev student\obj\Debug\Gaziev_student.Form6.resources

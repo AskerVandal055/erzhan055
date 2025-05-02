@@ -1,0 +1,10 @@
+D:\Данил\WinFormsApp1\RICHCOLLECTOR\RICHCOLLECTOR\bin\Debug\RICHCOLLECTOR.exe.config
+D:\Данил\WinFormsApp1\RICHCOLLECTOR\RICHCOLLECTOR\bin\Debug\RICHCOLLECTOR.exe
+D:\Данил\WinFormsApp1\RICHCOLLECTOR\RICHCOLLECTOR\bin\Debug\RICHCOLLECTOR.pdb
+D:\Данил\WinFormsApp1\RICHCOLLECTOR\RICHCOLLECTOR\obj\Debug\RICHCOLLECTOR.csproj.AssemblyReference.cache
+D:\Данил\WinFormsApp1\RICHCOLLECTOR\RICHCOLLECTOR\obj\Debug\RICHCOLLECTOR.Form1.resources
+D:\Данил\WinFormsApp1\RICHCOLLECTOR\RICHCOLLECTOR\obj\Debug\RICHCOLLECTOR.Properties.Resources.resources
+D:\Данил\WinFormsApp1\RICHCOLLECTOR\RICHCOLLECTOR\obj\Debug\RICHCOLLECTOR.csproj.GenerateResource.cache
+D:\Данил\WinFormsApp1\RICHCOLLECTOR\RICHCOLLECTOR\obj\Debug\RICHCOLLECTOR.csproj.CoreCompileInputs.cache
+D:\Данил\WinFormsApp1\RICHCOLLECTOR\RICHCOLLECTOR\obj\Debug\RICHCOLLECTOR.exe
+D:\Данил\WinFormsApp1\RICHCOLLECTOR\RICHCOLLECTOR\obj\Debug\RICHCOLLECTOR.pdb

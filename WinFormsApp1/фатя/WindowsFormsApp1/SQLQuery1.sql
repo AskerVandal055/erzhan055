@@ -1,0 +1,1 @@
+﻿UPDATE Books SET Author = 'Orwell, George' WHERE Title = '1984';

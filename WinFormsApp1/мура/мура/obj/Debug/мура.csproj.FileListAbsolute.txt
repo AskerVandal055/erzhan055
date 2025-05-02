@@ -1,0 +1,10 @@
+D:\Данил\WinFormsApp1\мура\мура\obj\Debug\мура.csproj.AssemblyReference.cache
+D:\Данил\WinFormsApp1\мура\мура\obj\Debug\мура.Form1.resources
+D:\Данил\WinFormsApp1\мура\мура\obj\Debug\мура.Properties.Resources.resources
+D:\Данил\WinFormsApp1\мура\мура\obj\Debug\мура.csproj.GenerateResource.cache
+D:\Данил\WinFormsApp1\мура\мура\obj\Debug\мура.csproj.CoreCompileInputs.cache
+D:\Данил\WinFormsApp1\мура\мура\bin\Debug\мура.exe.config
+D:\Данил\WinFormsApp1\мура\мура\bin\Debug\мура.exe
+D:\Данил\WinFormsApp1\мура\мура\bin\Debug\мура.pdb
+D:\Данил\WinFormsApp1\мура\мура\obj\Debug\мура.exe
+D:\Данил\WinFormsApp1\мура\мура\obj\Debug\мура.pdb

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0414\u0430\u043D\u0438\u043B\\WinFormsApp1\\WindowsFormsApp15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39E762A7-7AB9-4771-8AC5-F2946B14E990}|WindowsFormsApp15\\WindowsFormsApp15.csproj|D:\\\u0414\u0430\u043D\u0438\u043B\\WinFormsApp1\\WindowsFormsApp15\\windowsformsapp15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39E762A7-7AB9-4771-8AC5-F2946B14E990}|WindowsFormsApp15\\WindowsFormsApp15.csproj|solutionrelative:windowsformsapp15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E762A7-7AB9-4771-8AC5-F2946B14E990}|WindowsFormsApp15\\WindowsFormsApp15.csproj|D:\\\u0414\u0430\u043D\u0438\u043B\\WinFormsApp1\\WindowsFormsApp15\\windowsformsapp15\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E762A7-7AB9-4771-8AC5-F2946B14E990}|WindowsFormsApp15\\WindowsFormsApp15.csproj|solutionrelative:windowsformsapp15\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E762A7-7AB9-4771-8AC5-F2946B14E990}|WindowsFormsApp15\\WindowsFormsApp15.csproj|D:\\\u0414\u0430\u043D\u0438\u043B\\WinFormsApp1\\WindowsFormsApp15\\windowsformsapp15\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E762A7-7AB9-4771-8AC5-F2946B14E990}|WindowsFormsApp15\\WindowsFormsApp15.csproj|solutionrelative:windowsformsapp15\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E762A7-7AB9-4771-8AC5-F2946B14E990}|WindowsFormsApp15\\WindowsFormsApp15.csproj|d:\\\u0434\u0430\u043D\u0438\u043B\\winformsapp1\\windowsformsapp15\\windowsformsapp15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E762A7-7AB9-4771-8AC5-F2946B14E990}|WindowsFormsApp15\\WindowsFormsApp15.csproj|solutionrelative:windowsformsapp15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "D:\\\u0414\u0430\u043D\u0438\u043B\\WinFormsApp1\\WindowsFormsApp15\\WindowsFormsApp15\\Dog.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp15\\Dog.cs",
+              "ToolTip": "D:\\\u0414\u0430\u043D\u0438\u043B\\WinFormsApp1\\WindowsFormsApp15\\WindowsFormsApp15\\Dog.cs",
+              "RelativeToolTip": "WindowsFormsApp15\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:19:30.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "D:\\\u0414\u0430\u043D\u0438\u043B\\WinFormsApp1\\WindowsFormsApp15\\WindowsFormsApp15\\Cat.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp15\\Cat.cs",
+              "ToolTip": "D:\\\u0414\u0430\u043D\u0438\u043B\\WinFormsApp1\\WindowsFormsApp15\\WindowsFormsApp15\\Cat.cs",
+              "RelativeToolTip": "WindowsFormsApp15\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:18:26.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u0414\u0430\u043D\u0438\u043B\\WinFormsApp1\\WindowsFormsApp15\\WindowsFormsApp15\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp15\\Form1.cs",
+              "ToolTip": "D:\\\u0414\u0430\u043D\u0438\u043B\\WinFormsApp1\\WindowsFormsApp15\\WindowsFormsApp15\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp15\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwC8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:08:07.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0414\u0430\u043D\u0438\u043B\\WinFormsApp1\\WindowsFormsApp15\\WindowsFormsApp15\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp15\\Form1.cs",
+              "ToolTip": "D:\\\u0414\u0430\u043D\u0438\u043B\\WinFormsApp1\\WindowsFormsApp15\\WindowsFormsApp15\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp15\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:27:45.521Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

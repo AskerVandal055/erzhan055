@@ -1,0 +1,7 @@
+D:\Данил\WinFormsApp1\BunkerVutile077\BunkerVutile077\bin\Debug\BunkerVutile077.exe.config
+D:\Данил\WinFormsApp1\BunkerVutile077\BunkerVutile077\bin\Debug\BunkerVutile077.exe
+D:\Данил\WinFormsApp1\BunkerVutile077\BunkerVutile077\bin\Debug\BunkerVutile077.pdb
+D:\Данил\WinFormsApp1\BunkerVutile077\BunkerVutile077\obj\Debug\BunkerVutile077.csproj.AssemblyReference.cache
+D:\Данил\WinFormsApp1\BunkerVutile077\BunkerVutile077\obj\Debug\BunkerVutile077.csproj.CoreCompileInputs.cache
+D:\Данил\WinFormsApp1\BunkerVutile077\BunkerVutile077\obj\Debug\BunkerVutile077.exe
+D:\Данил\WinFormsApp1\BunkerVutile077\BunkerVutile077\obj\Debug\BunkerVutile077.pdb

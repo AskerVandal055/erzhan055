@@ -1,0 +1,10 @@
+D:\Данил\WinFormsApp1\вахи\вахи\bin\Debug\вахи.exe.config
+D:\Данил\WinFormsApp1\вахи\вахи\bin\Debug\вахи.exe
+D:\Данил\WinFormsApp1\вахи\вахи\bin\Debug\вахи.pdb
+D:\Данил\WinFormsApp1\вахи\вахи\obj\Debug\вахи.csproj.AssemblyReference.cache
+D:\Данил\WinFormsApp1\вахи\вахи\obj\Debug\вахи.Form1.resources
+D:\Данил\WinFormsApp1\вахи\вахи\obj\Debug\вахи.Properties.Resources.resources
+D:\Данил\WinFormsApp1\вахи\вахи\obj\Debug\вахи.csproj.GenerateResource.cache
+D:\Данил\WinFormsApp1\вахи\вахи\obj\Debug\вахи.csproj.CoreCompileInputs.cache
+D:\Данил\WinFormsApp1\вахи\вахи\obj\Debug\вахи.exe
+D:\Данил\WinFormsApp1\вахи\вахи\obj\Debug\вахи.pdb
